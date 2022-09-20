@@ -81,7 +81,6 @@ You are required to submit the following:
 
 * The URL of the deployed application
 
-* The URL of the GitHub repository
-
-https://user-images.githubusercontent.com/111714480/191158799-39850cfd-53f6-4f99-9a86-cb45513c842e.png
+* Screenshot of the GitHub repository
+![Screenshot Capture - 2022-09-19 - 18-04-58](https://user-images.githubusercontent.com/111714480/191159048-4cc4317a-189f-4eea-9992-203aba09bc02.png)
 
